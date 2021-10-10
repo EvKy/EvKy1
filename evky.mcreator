@@ -317,6 +317,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "logs_tag"
+    },
+    {
+      "name": "Rockmonster",
+      "type": "livingentity",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rockmonster"
     }
   ],
   "variable_elements": [],
@@ -326,6 +335,8 @@
       "item.evky.greatsword": "Greatsword",
       "itemGroup.tabev_ky": "Ev Ky",
       "biome.evky.great_biome": "Great Biome",
+      "item.evky.rockmonster_spawn_egg": "Rockmonster Spawn Egg",
+      "entity.evky.rockmonster": "Rockmonster",
       "block.evky.great_leaves": "Great Leaves",
       "block.evky.great_log": "Great Log",
       "block.evky.great_planks": "Great Planks",
@@ -349,9 +360,9 @@
   "workspaceSettings": {
     "modid": "evky",
     "modName": "EVKY",
-    "version": "1.1.13B",
+    "version": "1.1.14B",
     "author": "MinerChickenDine, Teengamer120",
-    "websiteURL": "https://evky.net",
+    "websiteURL": "https://github.com/EvKy/EvKy1",
     "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
