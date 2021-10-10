@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "evky:block/great_slab"
+    },
+    "type=top": {
+      "model": "evky:block/great_slab_top"
+    },
+    "type=double": {
+      "model": "evky:block/great_slab_full"
+    }
+  }
+}

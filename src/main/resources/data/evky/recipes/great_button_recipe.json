@@ -1,0 +1,13 @@
+{
+  "group": "evky",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "evky:great_planks"
+    }
+  ],
+  "result": {
+    "item": "evky:great_button",
+    "count": 1
+  }
+}

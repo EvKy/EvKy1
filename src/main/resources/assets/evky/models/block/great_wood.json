@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "evky:blocks/great_log_side",
+    "particle": "evky:blocks/great_log_side"
+  }
+}

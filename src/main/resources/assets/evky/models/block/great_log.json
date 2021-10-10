@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "evky:blocks/great_log_top",
+    "up": "evky:blocks/great_log_top",
+    "north": "evky:blocks/great_log_side",
+    "east": "evky:blocks/great_log_side",
+    "south": "evky:blocks/great_log_side",
+    "west": "evky:blocks/great_log_side",
+    "particle": "evky:blocks/great_log_top"
+  }
+}

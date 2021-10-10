@@ -1,0 +1,32 @@
+{
+  "group": "evky",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "evky:great_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "evky:great_planks"
+    },
+    "3": {
+      "item": "evky:great_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "evky:great_planks"
+    }
+  },
+  "result": {
+    "item": "evky:great_fence",
+    "count": 3
+  }
+}

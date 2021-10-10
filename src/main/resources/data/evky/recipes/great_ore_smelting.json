@@ -1,0 +1,12 @@
+{
+  "group": "evky",
+  "type": "minecraft:smelting",
+  "experience": 2.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "evky:great_ore"
+  },
+  "result": {
+    "item": "evky:great_ingot"
+  }
+}

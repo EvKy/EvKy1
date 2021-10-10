@@ -1,0 +1,22 @@
+{
+  "group": "evky",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "evky:great_planks"
+    },
+    "1": {
+      "item": "evky:great_planks"
+    },
+    "2": {
+      "item": "evky:great_planks"
+    }
+  },
+  "result": {
+    "item": "evky:great_slab",
+    "count": 6
+  }
+}

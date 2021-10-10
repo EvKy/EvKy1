@@ -1,0 +1,33 @@
+{
+  "group": "evky",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "evky:great_planks"
+    },
+    "3": {
+      "item": "evky:great_planks"
+    },
+    "4": {
+      "item": "evky:great_planks"
+    },
+    "6": {
+      "item": "evky:great_planks"
+    },
+    "7": {
+      "item": "evky:great_planks"
+    },
+    "8": {
+      "item": "evky:great_planks"
+    }
+  },
+  "result": {
+    "item": "evky:great_stairs",
+    "count": 4
+  }
+}

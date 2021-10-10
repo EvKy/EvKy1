@@ -1,0 +1,13 @@
+{
+  "group": "evky",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "evky:great_block"
+    }
+  ],
+  "result": {
+    "item": "evky:great_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Greatsword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greatsword"
+    },
+    {
+      "name": "EvKy",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ev_ky"
+    },
+    {
+      "name": "Lighting",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lighting",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GreatIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_ingot"
+    },
+    {
+      "name": "GreatOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_ore"
+    },
+    {
+      "name": "GreatBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_block"
+    },
+    {
+      "name": "GreatOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_ore_block_recipe"
+    },
+    {
+      "name": "GreatBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_block_ore_recipe"
+    },
+    {
+      "name": "GreatOreSmelting",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_ore_smelting"
+    },
+    {
+      "name": "GreatWood",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_wood"
+    },
+    {
+      "name": "GreatLog",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_log"
+    },
+    {
+      "name": "GreatPlanks",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_planks"
+    },
+    {
+      "name": "GreatLeaves",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_leaves"
+    },
+    {
+      "name": "GreatStairs",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_stairs"
+    },
+    {
+      "name": "GreatSlab",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_slab"
+    },
+    {
+      "name": "GreatFence",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_fence"
+    },
+    {
+      "name": "GreatFenceGate",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_fence_gate"
+    },
+    {
+      "name": "GreatPressurePlate",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_pressure_plate"
+    },
+    {
+      "name": "GreatButton",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_button"
+    },
+    {
+      "name": "GreatItemsTag",
+      "type": "tag",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_items_tag"
+    },
+    {
+      "name": "GreatWoodRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_wood_recipe"
+    },
+    {
+      "name": "GreatPlanksRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_planks_recipe"
+    },
+    {
+      "name": "GreatStairsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_stairs_recipe"
+    },
+    {
+      "name": "GreatSlabRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_slab_recipe"
+    },
+    {
+      "name": "GreatFenceRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_fence_recipe"
+    },
+    {
+      "name": "GreatFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_fence_gate_recipe"
+    },
+    {
+      "name": "GreatPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_pressure_plate_recipe"
+    },
+    {
+      "name": "GreatButtonRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_button_recipe"
+    },
+    {
+      "name": "GreatStickRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "great_stick_recipe"
+    },
+    {
+      "name": "Greatstick",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greatstick"
+    },
+    {
+      "name": "Greatswrod",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greatswrod"
+    },
+    {
+      "name": "Boss1",
+      "type": "structure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boss_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.evky.greatsword": "Greatsword",
+      "itemGroup.tabev_ky": "Ev Ky",
+      "block.evky.great_leaves": "Great Leaves",
+      "block.evky.great_log": "Great Log",
+      "block.evky.great_planks": "Great Planks",
+      "block.evky.great_ore": "Great Ore",
+      "block.evky.great_button": "Great Button",
+      "block.evky.great_slab": "Great Slab",
+      "block.evky.great_pressure_plate": "Great Pressure Plate",
+      "item.evky.greatstick": "Greatstick",
+      "block.evky.great_block": "Block of Great",
+      "block.evky.great_fence": "Great Fence",
+      "block.evky.great_stairs": "Great Stairs",
+      "block.evky.great_fence_gate": "Great Fence Gate",
+      "block.evky.great_wood": "Great Wood",
+      "item.evky.great_ingot": "Great"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "evky",
+    "modName": "EVKY",
+    "version": "1.0.10B",
+    "author": "MinerChickenDine, Teengamer120",
+    "websiteURL": "https://evky.net",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "sword",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "MinerChickenDine, Teengamer120",
+    "modElementsPackage": "net.mcreator.evky",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

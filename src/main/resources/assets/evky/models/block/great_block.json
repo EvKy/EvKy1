@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "evky:blocks/great_ore_block",
+    "particle": "evky:blocks/great_ore_block"
+  }
+}

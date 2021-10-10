@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "evky:blocks/great_planks",
+    "top": "evky:blocks/great_planks",
+    "side": "evky:blocks/great_planks"
+  }
+}

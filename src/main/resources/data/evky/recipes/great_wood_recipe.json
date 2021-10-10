@@ -1,0 +1,26 @@
+{
+  "group": "evky",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "evky:great_log"
+    },
+    "1": {
+      "item": "evky:great_log"
+    },
+    "2": {
+      "item": "evky:great_log"
+    },
+    "3": {
+      "item": "evky:great_log"
+    }
+  },
+  "result": {
+    "item": "evky:great_wood",
+    "count": 3
+  }
+}

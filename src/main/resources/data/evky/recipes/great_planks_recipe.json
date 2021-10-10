@@ -1,0 +1,13 @@
+{
+  "group": "evky",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:great_log"
+    }
+  ],
+  "result": {
+    "item": "evky:great_planks",
+    "count": 4
+  }
+}
