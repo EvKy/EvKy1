@@ -40,7 +40,7 @@ public class GreatswordItem extends EvkyModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 48f;
+				return 18f;
 			}
 
 			public int getHarvestLevel() {

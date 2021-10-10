@@ -25,7 +25,7 @@ public class RockmonsterRenderer {
 		@OnlyIn(Dist.CLIENT)
 		public void registerModels(ModelRegistryEvent event) {
 			RenderingRegistry.registerEntityRenderingHandler(RockmonsterEntity.entity, renderManager -> {
-				return new MobRenderer(renderManager, new Modelcustom_model(), 20f) {
+				return new MobRenderer(renderManager, new Modelcustom_model(), 2f) {
 					@Override
 					public ResourceLocation getEntityTexture(Entity entity) {
 						return new ResourceLocation("evky:textures/rockmonster.png");
