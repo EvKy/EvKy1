@@ -43,7 +43,7 @@ public class GreatLogBlock extends EvkyModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public static final EnumProperty<Direction.Axis> AXIS = BlockStateProperties.AXIS;
 		public CustomBlock() {
-			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(4f, 3.4822022531844965f).setLightLevel(s -> 0)
+			super(Block.Properties.create(Material.LEAVES).sound(SoundType.WOOD).hardnessAndResistance(4f, 3.4822022531844965f).setLightLevel(s -> 0)
 					.harvestLevel(0).harvestTool(ToolType.AXE).setRequiresTool());
 			this.setDefaultState(this.stateContainer.getBaseState().with(AXIS, Direction.Axis.Y));
 			setRegistryName("great_log");

@@ -301,13 +301,22 @@
       "registry_name": "greatswrod"
     },
     {
-      "name": "Boss1",
-      "type": "structure",
+      "name": "GreatBiome",
+      "type": "biome",
       "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "boss_1"
+      "registry_name": "great_biome"
+    },
+    {
+      "name": "LogsTag",
+      "type": "tag",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "logs_tag"
     }
   ],
   "variable_elements": [],
@@ -316,6 +325,7 @@
     "en_us": {
       "item.evky.greatsword": "Greatsword",
       "itemGroup.tabev_ky": "Ev Ky",
+      "biome.evky.great_biome": "Great Biome",
       "block.evky.great_leaves": "Great Leaves",
       "block.evky.great_log": "Great Log",
       "block.evky.great_planks": "Great Planks",
@@ -339,7 +349,7 @@
   "workspaceSettings": {
     "modid": "evky",
     "modName": "EVKY",
-    "version": "1.0.10B",
+    "version": "1.1.13B",
     "author": "MinerChickenDine, Teengamer120",
     "websiteURL": "https://evky.net",
     "license": "All Rights Reserved",
